@@ -1,5 +1,5 @@
 This repository contains the database dump of the project work "Route Table Engine" for Università Telematica Pegaso
-An application model for the management of transportation routes with particular reference to road travel. 
+an application model for the management of transportation routes with particular reference to road travel. 
 
 The project structure is based on a relational database with conceptual references to graph theory and the GTFS (General Transit Feed Specification) model, and is linked to issues discussed in literature such as the Vehicle Routing Problem (VRP). 
 
