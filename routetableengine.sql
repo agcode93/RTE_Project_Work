@@ -110,6 +110,7 @@ CREATE TABLE `fermata` (
 
 --
 -- Dump dei dati per la tabella `fermata`
+-- "Durata viaggio" attributo di elaborazioni precedenti - non impiegato in documentazione.
 --
 
 INSERT INTO `fermata` (`ID`, `ID_Linea`, `ID_Città`, `Orario`, `Durata_viaggio`) VALUES
